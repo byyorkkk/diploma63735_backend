@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\bin\Release\net6.0\User.Management.Service.deps.json
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\bin\Release\net6.0\User.Management.Service.runtimeconfig.json
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\bin\Release\net6.0\User.Management.Service.dll
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\bin\Release\net6.0\User.Management.Service.pdb
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.dll
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\refint\User.Management.Service.dll
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.pdb
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\User.Management.Service.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Backend63735\User.Management.Service\obj\Release\net6.0\ref\User.Management.Service.dll
